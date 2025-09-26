@@ -1,5 +1,6 @@
 body {
   background-color: #f9f7fe;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
   text-align: center;
@@ -23,8 +24,8 @@ select {
   background: white;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  margin: 60px 0;
-  border-radius: 10px;
+
+  border-radius: 100px;
 }
 
 .city {
